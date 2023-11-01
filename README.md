@@ -1,16 +1,17 @@
-### Hi there 👋
+👀 Hi, I'm Vladyslav 👋
 
-<!--
-**VladProtchenko/VladProtchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack JavaScript engeneer, React/Node main stack
+Full-stack JavaScript engeneer, React/Node main stack
 
-Here are some ideas to get you started:
+I know a secret
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you can't find solution at first five minutes you're bad engineed 💡
+So here, my github and most interesting project that I have created already. So you can watch it and I hope it will be helpful for you!
+I can solve any your problem 🦾
+
+Couple examples:
+https://ordersmadesimple.com/ also android and ios app
+https://lp-crm.biz/
+
+Thanks for your time and be happy! 😉
+see you 🙌
